@@ -5,7 +5,7 @@ https://yyoossk.blogspot.com/2023/03/main.html
 
 2.であえ 殿さま あっぱれ一番抽出.zipファイルをダウンロード＆解凍
 
-https://github.com/yyoossk/Shounen-Ninja-Sasuke-NS/releases
+https://github.com/yyoossk/Deae-Tonosama-Appare-Ichiban-NS/releases
 
 3.main_uncompressedファイルをであえ 殿さま あっぱれ一番抽出.batファイルがある場所にコピーし、であえ 殿さま あっぱれ一番抽出.batを起動すると、DeaeTonosamaAppareIchiban.sfcファイルが作成される
 
